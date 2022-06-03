@@ -1,1 +1,1 @@
-# bgkiitg.github.io
+# Contains link for school notes
